@@ -1,0 +1,19 @@
+.wrap{
+    display: flex;
+}
+
+.wrap > div{
+    width: 33.333%;
+}
+
+.users-box{
+    background-color: silver;
+}
+
+.chosen-one{
+    background-color: cornsilk;
+}
+
+.chosen-two{
+    background-color: lightcyan;
+}

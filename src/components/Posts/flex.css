@@ -1,0 +1,20 @@
+.flex{
+    display: flex;
+}
+
+.flex > div{
+    width: 33.333%;
+}
+
+
+.column-1{
+    background-color: cornsilk;
+}
+
+.column-2{
+    background-color: lightcyan;
+}
+
+.column-3{
+    background-color: darkgray;
+}
